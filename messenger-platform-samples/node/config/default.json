@@ -1,0 +1,10 @@
+{
+    "appSecret": "d5caf875217f72c52250e0d9d480ae13",
+    "pageAccessToken": "EAAh8fFfNI4sBAJddHNUsymICf3CdjoFt5ZCxNY9MEwZAPjid4TNXsxBFgGBWCbR9iIillER3o23O8QdY40JPMGGOZAACKE8ytBafHJK0vHjYfadg5kZCbzCmFFiMaVQmTUWqiMXr0kZBTE3oxHhJDcc9edjOfawvJziiWDgOIPAZDZD",
+    "validationToken": "chatbotpfe",
+    "serverURL": "https://c46a23d9.ngrok.io",
+    "twitterKey": "rf1rWWRCrxYRdXx78TjEvr10Z",
+    "twitterSecret": "nEVAi8f4IncGvCeqjiiDQyOZeIyeiT4jheFHV5Q5a6dV44y8jz",
+    "twitterBearerToken": "AAAAAAAAAAAAAAAAAAAAAMjp9AAAAAAASS3bKdBSq4TeUyF1pZmZ1u7baII%3D1qpC9oghmBIMMvk5AqCdGoUJty1GJtQTCtFf0rZqcUGk5WfsCL",
+    "recastRequestAccessToken": "e529883cdb22e26d6fdfad7d977c77c5"
+}
